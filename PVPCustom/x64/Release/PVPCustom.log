@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  hooks.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1393,5): warning MSB8012: TargetExt(.dll.arkapi) does not match the Linker's OutputFile property value (.arkapi). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1394,5): warning MSB8012: TargetName(PVPCustom) does not match the Linker's OutputFile property value (PVPCustom.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library C:\Users\Ivani\Desktop\Server2\ShooterGame\Binaries\Win64\ArkApi\Plugins\PVPCustom\PVPCustom.lib and object C:\Users\Ivani\Desktop\Server2\ShooterGame\Binaries\Win64\ArkApi\Plugins\PVPCustom\PVPCustom.exp
+  Generating code
+  24 of 2943 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    48 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PVPCustom.vcxproj -> C:\Users\Ivani\Desktop\Server2\ShooterGame\Binaries\Win64\ArkApi\Plugins\PVPCustom\PVPCustom.dll.arkapi
